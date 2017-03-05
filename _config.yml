@@ -31,6 +31,7 @@ navbar-links:
   #Author's home: "http://deanattali.com"
   Projects:
     - Data Analysis: "https://nonusingh.github.io/Titanic"
+    - Data Wrangling with MongoDB: "https://nonusingh.github.io/Austin_OSM"
     - Hypothesis Testing: "https://nonusingh.github.io/Stroop"
     - Googledrive API: "https://nonusingh.github.io/GoogleSheetAPI"
   Resume: "https://nonusingh.github.io/Resume"
