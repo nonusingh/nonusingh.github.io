@@ -30,10 +30,11 @@ navbar-links:
   #  - GitHub Pages: "https://pages.github.com/"
   #Author's home: "http://deanattali.com"
   Projects:
-    - Data Analysis: "https://nonusingh.github.io/Titanic"
+    - Data Analysis with Pandas: "https://nonusingh.github.io/Titanic"
     - Data Wrangling with MongoDB: "https://nonusingh.github.io/Austin_OSM"
     - Hypothesis Testing: "https://nonusingh.github.io/Stroop"
     - Googledrive API: "https://nonusingh.github.io/GoogleSheetAPI"
+    - Exploratory Data Analysis: "https://nonusingh.github.io/Prosper"
   Resume: "https://nonusingh.github.io/Resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
