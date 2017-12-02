@@ -38,7 +38,7 @@ navbar-links:
     - Googledrive API: "https://nonusingh.github.io/GoogleSheetAPI"
   Machine Learning Projects: 
     - Naive Bayes: "https://nonusingh.github.io/final_report"
-    - Decision Tree: "https://nonusingh.github.io/Manual_DT"
+    - Decision Tree: "https://nonusingh.github.io/Manual_DecisionTree"
     
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
