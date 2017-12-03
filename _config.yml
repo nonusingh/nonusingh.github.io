@@ -26,8 +26,7 @@ navbar-links:
   About Me:
     - About Me: "aboutme"
     - Resume: "https://nonusingh.github.io/Resume"
-    - Udacity Nanodegree: "https://nonusingh.github.io/Data Analyst Nanodegree.pdf"
-    - </br><a href="https://nonusingh.github.io/Data Analyst Nanodegree.pdf" target = "_blank">Udacity Nanodegree</a>
+    - Udacity Nanodegree: "https://github.com/nonusingh/Certificate/blob/master/Data%20Analyst%20Nanodegree.pdf"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
