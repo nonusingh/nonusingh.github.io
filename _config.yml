@@ -26,6 +26,7 @@ navbar-links:
   About Me:
     - About Me: "aboutme"
     - Resume: "https://nonusingh.github.io/Resume"
+    - Udacity Nanodegree: "https://printer.udacity.com/certificate/nd002"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
